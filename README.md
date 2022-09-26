@@ -1,6 +1,6 @@
 # Very simple Edgetreatment example for Navigation bottom bar
 
-This sample is add an arc above middle item of navigation bar. Using
+This sample adds an arc above the middle item of the navigation bar. Using
 [EdgeTreatment](https://developer.android.com/reference/com/google/android/material/shape/EdgeTreatment)
 
 ![Navigation screenshot.](screenshot_1.jpeg?raw=true "Navigation screenshot")
